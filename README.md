@@ -45,3 +45,4 @@ A: 76, B : 74, C : 36 Rs spent at the restaurant.
 
 **Attachments**
 
+https://github.com/prafullgangrade/Danny-s-Dinner_SQL_Challenge-1.git
