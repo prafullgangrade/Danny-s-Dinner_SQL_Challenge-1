@@ -18,7 +18,7 @@ Danny has provided you with a sample of his overall customer data due to privacy
 
 Danny has shared with you 3 key datasets for this case study:
 
-<img align="right" width="600" src="https://user-images.githubusercontent.com/56063563/231941820-802869ac-ff6f-476c-83a6-4e82a65c7a48.png">
+<img align="right" width="500" src="https://user-images.githubusercontent.com/56063563/231941820-802869ac-ff6f-476c-83a6-4e82a65c7a48.png">
 
 **Table 1: sales**
 
