@@ -20,6 +20,7 @@ Danny has shared with you 3 key datasets for this case study:
 
 <img align="right" width="475" src="https://user-images.githubusercontent.com/56063563/231941820-802869ac-ff6f-476c-83a6-4e82a65c7a48.png">
 
+
 **Table 1: sales**
 
 ![image](https://user-images.githubusercontent.com/56063563/231946556-4e9606e6-55c9-46ab-ab4e-03c1b7f771b3.png)  
