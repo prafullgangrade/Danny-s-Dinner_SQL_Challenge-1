@@ -18,7 +18,7 @@ Danny has provided you with a sample of his overall customer data due to privacy
 
 Danny has shared with you 3 key datasets for this case study:
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/56063563/231941820-802869ac-ff6f-476c-83a6-4e82a65c7a48.png">
+<img align="right" width="475" src="https://user-images.githubusercontent.com/56063563/231941820-802869ac-ff6f-476c-83a6-4e82a65c7a48.png">
 
 **Table 1: sales**
 
@@ -36,12 +36,12 @@ Danny has shared with you 3 key datasets for this case study:
 
 **Summarry**
 
--- A and B purchased Sushi and Curry just before the customer became a member.
--- A and B purchased Sushi and Curry first after they became a member.
--- Ramen, Sushi, Curry was the most popular for each customer.
--- Ramen most purchased item on the menu.
--- A: 4, B :6, C : 2 days visited the restaurant
--- A: 76, B : 74, C : 36 Rs spent at the restaurant.
+--A and B purchased Sushi and Curry just before the customer became a member.
+--A and B purchased Sushi and Curry first after they became a member.
+--Ramen, Sushi, Curry was the most popular for each customer.
+--Ramen most purchased item on the menu.
+--A: 4, B :6, C : 2 days visited the restaurant
+--A: 76, B : 74, C : 36 Rs spent at the restaurant.
 
 **Attachments**
 
